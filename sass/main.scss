@@ -14,10 +14,15 @@
 @import "./components/feature-box";
 @import "./components/card";
 @import "./components/stories";
+@import "./components/bg-video";
+@import "./components/form";
+@import "./components/popup";
 
 //Layout
 @import "./layout/header";
 @import "./layout/grid";
+@import "./layout/footer";
+@import "./layout/navigation";
 
 //Pgages
 @import "./pages/home";
